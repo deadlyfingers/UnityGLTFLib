@@ -20,4 +20,4 @@ Work Items and Issues targeting a 1.0 release of the library can be found in
 [Road to 1.0](https://github.com/KhronosGroup/UnityGLTF/projects/1)
 
 ## Dependencies
-- Uses [JSON.NET for Unity](https://github.com/SaladLab/Json.Net.Unity3D/releases/download/8.0.3/JsonNet-UwpWorkaround.8.0.3.zip) plugin.
+- Changed plugin to use [JSON.NET for Unity](https://github.com/SaladLab/Json.Net.Unity3D/releases/download/8.0.3/JsonNet-UwpWorkaround.8.0.3.zip)
